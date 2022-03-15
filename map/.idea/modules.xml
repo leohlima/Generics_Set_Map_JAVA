@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1_map/1_map.iml" filepath="$PROJECT_DIR$/1_map/1_map.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_map-Exercicio/2_map-Exercicio.iml" filepath="$PROJECT_DIR$/2_map-Exercicio/2_map-Exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Map-Exercicio/3_Map-Exercicio.iml" filepath="$PROJECT_DIR$/3_Map-Exercicio/3_Map-Exercicio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/map.iml" filepath="$PROJECT_DIR$/.idea/map.iml" />
     </modules>
   </component>
